@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/
 pranita-gurung-503531410"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-[Brief Introduction - Remove this afterwards]
-
 I am currently a Cybersecurity student minoring in Networking with a profound interest in technology and a dedication to learning and solving problems.
 My journey as a cybersecurity student has led me to develop more passion for cybersecurity, and I am now eager to learn and specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst intern or any other cybersecurity roles to understand in deeper level. 
 
@@ -24,8 +21,6 @@ My journey as a cybersecurity student has led me to develop more passion for cyb
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -34,21 +29,11 @@ My journey as a cybersecurity student has led me to develop more passion for cyb
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/[-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://www.netacad.com/certificates/?issuanceId=2ab063f5-b278-4083-9837-0ce82947c9e4)" />
 </div>
 
 ## Projects
