@@ -33,7 +33,8 @@ My journey as a cybersecurity student has led me to develop more passion for cyb
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/[-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://www.netacad.com/certificates/?issuanceId=2ab063f5-b278-4083-9837-0ce82947c9e4)" />
+<img src="https://img.shields.io/badge/-CCNA%20Intro%20to%20Networks-0A66C2?style=for-the-badge&logo=Cisco&logoColor=white" />
+
 </div>
 
 ## Projects
