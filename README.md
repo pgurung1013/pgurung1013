@@ -22,6 +22,7 @@ My journey as a cybersecurity student has led me to develop more passion for cyb
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+
 ### Certifications
 <div>
 <img src="https://img.shields.io/badge/-CCNA%20Intro%20to%20Networks-0A66C2?style=for-the-badge&logo=Cisco&logoColor=white" />
